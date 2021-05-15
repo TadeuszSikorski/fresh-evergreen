@@ -8,6 +8,13 @@
   </a>
 </p>
 
+![logo](https://img.shields.io/badge/fresh-evergreen-brightgreen)
+![LICENSE](https://img.shields.io/github/license/TadeuszSikorski/fresh-evergreen?style=plastic)
+![issues](https://img.shields.io/github/issues/TadeuszSikorski/fresh-evergreen)
+![stars](https://img.shields.io/github/stars/TadeuszSikorski/fresh-evergreen)
+![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FTadeuszSikorski%2Ffresh-evergreen
+)
+
 Fresh Evergreen is a sample repository for the git course from my blog.
 
 ## Course Roadmap
